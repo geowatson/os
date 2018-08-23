@@ -1,0 +1,500 @@
+   97  npm i
+   98  npm WARN shri-2018-2-task-1@1.0.0 No repository field.
+   99  npm WARN shri-2018-2-task-1@1.0.0 No license field.
+  100  ls
+  101  npm i
+  102  npm start
+  103  ls
+  104  cd ../
+  105  ls
+  106  rm -rf entrance-task-1-2/
+  107  xcode-select --install
+  108  nvm install 9.0.0
+  109  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+  110  ls
+  111  nvm install 9.0.0
+  112  export NVM_DIR="$HOME/.nvm"
+  113  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+  114  ls
+  115  nvm
+  116  nvm install 9.0.0
+  117  ls
+  118  git clone https://github.com/yandex-shri-2018/entrance-task-1-2.git
+  119  cd entrance-task-1-2/
+  120  npm -v
+  121  node -v
+  122  npm i
+  123  npm start
+  124  npm start
+  125  npm start
+  126  cd ../
+  127  ls
+  128  rm -rf entrance-task-1-2/
+  129  git clone https://github.com/yandex-shri-2018/entrance-task-1-2.git
+  130  cd entrance-task-1-2/
+  131  npm i
+  132  npm start
+  133  cd ../
+  134  https://github.com/geowatson/yandex-1.1.git
+  135  git clone https://github.com/geowatson/yandex-1.1.git
+  136  ls
+  137  cd yandex-1.1/
+  138  ls
+  139  git status
+  140  git status
+  141  git status
+  142  git status
+  143  git add .
+  144  git commit -m "sorry, not forked but copied"
+  145  git push origin master
+  146  git pull
+  147  npm start
+  148  git status
+  149  git add .
+  150  git add .
+  151  git status
+  152  git commit -m "1.2 added"
+  153  git push origin master
+  154  npm start
+  155  npm start
+  156  ls
+  157  git status
+  158  git status
+  159  git status
+  160  git status
+  161  git add .
+  162  git status
+  163  git status
+  164  git add .
+  165  git status
+  166  status
+  167  git status
+  168  cd ../
+  169  cd yandex/
+  170  ls
+  171  git status
+  172  nano .DS_Store 
+  173  ls
+  174  git status
+  175  git add .
+  176  git status
+  177  rm .DS_Store 
+  178  ls
+  179  git status
+  180  git add .
+  181  git status
+  182  git commit -m "moved task 1.1"
+  183  git push origin master
+  184  npm start
+  185  ls
+  186  cd task-complex/
+  187  npm start
+  188  npm start
+  189  npm start
+  190  ssh root@159.65.199.156
+  191  ssh root@159.65.199.156
+  192  git status
+  193  git status
+  194  ls
+  195  ls
+  196  git status
+  197  git status
+  198  git status
+  199  git status
+  200  ssh root@159.65.199.156
+  201  ls
+  202  cd YandexSHRI/
+  203  ls
+  204  cd yandex
+  205  git status
+  206  ls
+  207  cd task-complex/
+  208  nano README.md 
+  209  git status
+  210  git add .
+  211  git commit -m "1.4 added"
+  212  pgp
+  213  gpg
+  214  cd ~
+  215  cd ./.ssh/id_rsa.pub 
+  216  nano ./.ssh/id_rsa.pub 
+  217  cat ./.ssh/id_rsa.pub 
+  218  ssh -T git@github.com
+  219  ls
+  220  cd YandexSHRI/yandex/
+  221  l
+  222  ls
+  223  cd task-complex/
+  224  ls
+  225  git status
+  226  git push
+  227  git global
+  228  git --global
+  229  git config --global 
+  230  git config --global user
+  231  git config --global user.name "George Watson"
+  232  git config --global user.email "g.poputnikov@innopolis.ru"
+  233  ls
+  234  npm start
+  235  ls
+  236  pwd
+  237  ls
+  238  ls
+  239  cd ../
+  240  ls
+  241  cd ../
+  242  ls
+  243  nano app.js
+  244  ls
+  245  node app.js
+  246  node app.js
+  247  node app.js
+  248  node app.js
+  249  node app.js
+  250  node app.js
+  251  node app.js
+  252  node app.js
+  253  node app.js
+  254  node app.js
+  255  node app.js
+  256  ls
+  257  cd yandex/
+  258  ls
+  259  cd task-
+  260  cd task-js
+  261  ls
+  262  node app.js
+  263  node app.js
+  264  node app.js
+  265  node app.js
+  266  node app.js
+  267  node app.js
+  268  node app.js
+  269  node app.js
+  270  node app.js
+  271  node app.js
+  272  node app.js
+  273  node app.js
+  274  node app.js
+  275  node app.js
+  276  node app.js
+  277  node app.js
+  278  node app.js
+  279  node app.js
+  280  node app.js
+  281  node app.js
+  282  node app.js
+  283  node app.js
+  284  node app.js
+  285  node app.js
+  286  node app.js
+  287  node app.js
+  288  node app.js
+  289  node app.js
+  290  node app.js
+  291  node app.js
+  292  node app.js
+  293  node app.js
+  294  node app.js
+  295  node app.js
+  296  node app.js
+  297  node app.js
+  298  node app.js
+  299  node app.js
+  300  node app.js
+  301  node app.js
+  302  node app.js
+  303  node app.js
+  304  node app.js
+  305  node app.js
+  306  node app.js
+  307  node app.js
+  308  node app.js
+  309  node app.js
+  310  node app.js
+  311  ssh root@159.65.199.156
+  312  ls
+  313  cd ../
+  314  git status
+  315  ls
+  316  cd ../
+  317  ls
+  318  ls
+  319  cd yandex/
+  320  ls
+  321  nano .gitignore
+  322  ls
+  323  nano .gitignore
+  324  ls
+  325  git status
+  326  git status
+  327  cd task-js/
+  328  ls
+  329  git status
+  330  git status
+  331  git add ./
+  332  ls
+  333  git status
+  334  git commit -m "Task 1.3 added"
+  335  git status
+  336  git push
+  337  ls
+  338  nano .gitignore
+  339  ls
+  340  git status
+  341  git status
+  342  ls
+  343  nano .gitignore 
+  344  git status
+  345  nano .gitignore
+  346  git add .
+  347  git status
+  348  git status
+  349  git add .
+  350  git status
+  351  git status
+  352  git add .
+  353  git status
+  354  git commit -m ".idea files cleared"
+  355  git push
+  356  ls
+  357  git status
+  358  git status
+  359  git status
+  360  git status
+  361  git add .
+  362  git status
+  363  git commit -m "Added checks on input data. TODOs: algo, tests"
+  364  git push 
+  365  gpg --list-secret-keys --keyid-format LONG
+  366  git config --global user.signingkey 1928A9F93FEEEEB3
+  367  git status
+  368  git add .
+  369  git commit -m "fix comment on io.js"
+  370  git push
+  371  echo 'export GPG_TTY=$(tty)' >> ~/.bash_profile
+  372  git add .
+  373  git commit -m "fix comment on app.js"
+  374  git push origin dev
+  375  git push origin master
+  376  git status
+  377  git add .
+  378  git commit -m "fixed tests and added algo"
+  379  git push
+  380  ssh root@159.65.199.156
+  381  nginx
+  382  brew
+  383  brew install nginx
+  384  brew install nginx
+  385  nginx
+  386  nano /usr/local/etc/nginx/nginx.conf
+  387  service
+  388  systemcl1
+  389  systemc1
+  390  systemcl
+  391  nginx
+  392  nginx -s restart
+  393  nginx -s stop
+  394  nginx
+  395  nginx -s stop
+  396  nginx
+  397  nano /usr/local/etc/nginx/nginx.conf
+  398  nano /usr/local/etc/nginx/nginx.conf.default 
+  399  nano /usr/local/etc/nginx/nginx.conf
+  400  nginx -h
+  401  nginx -s reload
+  402  ssh root@159.65.199.156
+  403  clear
+  404  ls
+  405  clear
+  406  nginx
+  407  ls
+  408  nginx 
+  409  nginx 
+  410  nginx 
+  411  ls
+  412  cd YandexSHRI/
+  413  l
+  414  ls
+  415  cd ya
+  416  cd yandex/
+  417  cd task-frontend/
+  418  ls
+  419  git status
+  420  git add .
+  421  git commit -m "frontend task started"
+  422  ls
+  423  git push
+  424  git status
+  425  nginx 
+  426  nginx 
+  427  clear
+  428  clear
+  429  nginx 
+  430  ls
+  431  ls
+  432  ls
+  433  ls
+  434  cd YandexSHRI/
+  435  ls
+  436  cd yandex/
+  437  ls
+  438  cd task-frontend
+  439  ls
+  440  ls
+  441  ls
+  442  git status
+  443  git add .
+  444  ls
+  445  git status
+  446  ls
+  447  git commit -m "desktop release v0.1"
+  448  git push
+  449  ls
+  450  ls
+  451  ls
+  452  git status
+  453  ls
+  454  nginx
+  455  nginx
+  456  nginx -h
+  457  nginx -s stop
+  458  nginx
+  459  git status
+  460  nginx -c
+  461  nginx -h
+  462  nginx -s stop
+  463  nginx
+  464  nano /usr/local/etc/nginx/nginx.conf
+  465  ls
+  466  ls
+  467  git add .
+  468  git commit -m "mobile resolution added. v0.5"
+  469  git push
+  470  ls
+  471  git add .
+  472  git commit -m "desktop final; v0.8"
+  473  git push
+  474  nginx -s stop
+  475  nginx
+  476  git add .
+  477  git commit -m "release v1.0 (stable)"
+  478  git push 
+  479  git add .
+  480  git commit -m "micro bug fix"
+  481  winetricks
+  482  nginx
+  483  ls
+  484  git add .
+  485  git commit -m "client view area fix for popup and body layouts"
+  486  git push
+  487  cd ../
+  488  l
+  489  ls
+  490  cd task-complex/
+  491  npm start
+  492  nginx
+  493  nginx -s stop
+  494  nginx
+  495  nginx
+  496  nginx -s stop
+  497  ngin
+  498  nginx
+  499  ls
+  500  ls
+  501  nginx -s stop
+  502  ls
+  503  ls
+  504  jupyter lab
+  505  cd ~
+  506  jupyter lab
+  507  nginx
+  508  nginx -h
+  509  nano /usr/local/etc/nginx/nginx.conf
+  510  nginx -s stop
+  511  nginx
+  512  less
+  513  ls
+  514  cd SS
+  515  ls
+  516  less index.html 
+  517  head index.html 
+  518  tail index.html 
+  519  man head
+  520  man tail
+  521  grep title index.html 
+  522  stderr
+  523  head -n 3 < index.html 
+  524  sort
+  525  man sort
+  526  man sort
+  527  ls
+  528  ls | sort
+  529  ls | sort -r
+  530  ls | sort -r | tail -n 1
+  531  pwd
+  532  gedit
+  533  ls /usr/bin
+  534  ls /usr/bin | grep gcc
+  535  ls
+  536  cd ../
+  537  ls
+  538  git clone https://github.com/geowatson/os.git
+  539  cd os/
+  540  mkdir w1
+  541  cd w1/
+  542  cd ../
+  543  rm -rf w1
+  544  ls
+  545  nano s1.sh
+  546  sh s1.sh 
+  547  nano s1.sh 
+  548  ls
+  549  sh s1.sh 
+  550  nano s1.sh 
+  551  sh s1.sh 
+  552  nano s1.sh 
+  553  sh s1.sh 
+  554  ls
+  555  nano s1.sh 
+  556  sh s1.sh 
+  557  nano s1.sh 
+  558  sh s1.sh 
+  559  nano s1.sh 
+  560  sh s1.sh 
+  561  ls
+  562  rm -rf ex4 
+  563  ls
+  564  nano s1.sh 
+  565  ls
+  566  nano s1.sh 
+  567  sh s1.sh 
+  568  ls
+  569  cat week1/ex1.txt week1/ex2.txt week1/ex4
+  570  history
+  571  cat week1/ex1.txt
+  572  cat week1/ex2.txt
+  573  history > file
+  574  ls
+  575  cat file
+  576  ls
+  577  nano s1.sh 
+  578  nano week1/ex2.txt 
+  579  sh s1.sh 
+  580  nano week1/ex2.txt 
+  581  nano s1.sh 
+  582  sh s1.sh 
+  583  cat week1/ex2.txt 
+  584  sh s1.sh 
+  585  nano s1.sh 
+  586  sh s1.sh 
+  587  nano s1.sh 
+  588  sh s1.sh 
+  589  history > week1/ex2.txt 
+  590  nano s1.sh 
+  591  ls
+  592  rm -rf file 
+  593  nano s1.sh 
+  594  sh s1.sh 
+  595  history 
+  596  history > week1/ex2.txt 
