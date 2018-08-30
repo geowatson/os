@@ -13,6 +13,7 @@ int main() {
     for (int i = (int)strlen(str); i > 0; --i) {
         putchar(str[i - 1]);
     }
+    printf("\n");
     
     return 0;
 }
