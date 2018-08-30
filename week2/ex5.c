@@ -5,7 +5,7 @@
 #define profunctor_optics ( \
 (c == 1) ? 1 : \
 (c == 2) ? 1 : \
-(c == 3) ? 1 : j >= n - i - 1 & j <= n - i - 1 + 2 * (i + 1) - 2)
+(c == 3) ? 1 : j >= n - i - 1 & j <= n + i - 1)
 
 #define nplus1 ( \
 (c == 1) ? i + 1 : \
@@ -35,4 +35,3 @@ int main(int argc, char** argv) {
 
     return 0;
 }
-
