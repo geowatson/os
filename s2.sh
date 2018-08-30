@@ -5,7 +5,7 @@ echo '#include <stdio.h>\n#include "limits.h"\n#include "float.h"\n\nint main() 
 echo '#include <stdio.h>\n#include "stdlib.h"\n#include "string.h"\n\nint main() {\n    // Reserve str in dynamic memory.\n    // Implicitly declare len for your\n    // string if not matches requirements.\n    long len = 100000;\n    char *str = malloc(sizeof(char) * len);\n    \n    scanf("%s", str);\n    for (int i = (int)strlen(str); i > 0; --i) {\n        putchar(str[i - 1]);\n    }\n    \n    return 0;\n}' > week2/ex2.c
 
 # exersice 3
-echo "#include <stdio.h>\n#include <stdlib.h>\n\nint main(int argc, char** argv) {\n    // declare n implicitly\n    // for emergency situations\n    int n = atoi(argv[1]);\n    for (int i = 0; i < n; ++i) {\n        for (int j = 0; j < 2 * n - 1; ++j) {\n            putchar(j >= n - i - 1 & j <= n - i - 1 + 2 * (i + 1) - 2 ? '*' : ' ');\n        }\n    }\n\n    return 0;\n}" > week2/ex3.c
+echo "#include <stdio.h>\n#include <stdlib.h>\n\nint main(int argc, char** argv) {\n    // declare n implicitly\n    // for emergency situations\n    int n = atoi(argv[1]);\n    for (int i = 0; i < n; ++i) {\n        for (int j = 0; j < 2 * n - 1; ++j) {\n            putchar(j >= n - i - 1 & j <= n - i - 1 + 2 * (i + 1) - 2 ? '*' : ' ');\n        }\n        putchar('\\n');\n    }\n\n    return 0;\n}" > week2/ex3.c
 
 # exersice 4
 # echo > week2/ex4.c
