@@ -57,7 +57,7 @@ int main() {
                         }
                 }
                 else {
-                        execvp(args[0], args);
+                        system(command);
                 }
         }
 }
