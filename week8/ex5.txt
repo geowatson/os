@@ -1,0 +1,1 @@
+Virtual memory created and used by CPU only (as abstraction, mapped to physical memory), physical memory is real memory that placed in cells of cache/ROM/RAM/disks.

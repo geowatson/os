@@ -1,0 +1,4 @@
+As we have 2^16 addresses and 2^13 entries,
+we may calculate entries by 2^16 / 2^13 = 2^3 = 8.
+
+Thus, answer: we need 8 entries.
