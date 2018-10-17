@@ -1,0 +1,5 @@
+1. If we access the same resource (e.g resource A), then hit/miss ratio will be N - 1 (N is number of total accesses). It is the maximum amount of hit/miss ratio in this case.
+Hit will be equal to N - 1, and miss will be equal to 1 (we need to read page at least once).
+
+2. If we access resources that no resource will be accessed twice, ratio will be 0. It is the minimum amount of hit/miss ratio in this case.
+Hit will be equal to 0 because each time we access new resource, and miss will be equal to N - 1.
