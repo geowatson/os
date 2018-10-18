@@ -16,7 +16,7 @@ typedef struct {
         unsigned long counter;
 } frame;
 
-void page_load(frame * f, p_num p);
+void page_load(frame * f, p_num n);
 
 static frame * frames;
 static int tsize;
@@ -70,9 +70,11 @@ void page_load(frame * f, p_num n) {
         }
 
         for (int i = 0; i < tcurrent; ++i) {
+                f[i].R = 0;
                 f[i].counter >>= 1;
                 if (f[i].number == n) {
-                        f[i].counter |= (unsigned long) 1 << 63;
+                        f[i].R = 1;
+                        f[i].counter |= (unsigned long) f[i].R << 63;
                 }
                 if (cmin > f[i].counter) {
                         cmin = f[i].counter;
