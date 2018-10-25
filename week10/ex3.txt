@@ -1,0 +1,6 @@
+-rw-rw-rw-  1 geowatson  staff  5 Oct 26 00:27 _ex3.txt
+-rwx---rwx  1 geowatson  staff  5 Oct 26 00:27 _ex3.txt
+-rw-rw----  1 geowatson  staff  5 Oct 26 00:27 _ex3.txt
+660 means read and write permissions to owner(user) and group, not others.
+775 means read, write and execute for user and group and not execute for others.
+777 means give all permissions to all.
